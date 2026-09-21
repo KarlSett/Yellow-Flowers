@@ -1,7 +1,4 @@
-/* ============================================
-   🌻 FLORES AMARILLAS - MAIN APP
-   Three.js 3D Flowers + Particles + Interactions
-   ============================================ */
+
 
 (function () {
     'use strict';
